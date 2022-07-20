@@ -1,0 +1,17 @@
+.equal {
+    min-height: 750px
+}
+
+.icon {
+    font-size: 20px
+}
+
+.news-block {
+    transition: .5s;
+}
+
+.news-block:hover {
+    transform: scale(1.02);
+    box-shadow: 0 0 20px #cfc8c8;
+    transition: .5s;
+}
